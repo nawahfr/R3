@@ -1,0 +1,13 @@
+[Objects365 Dataset V2](http://www.objects365.org/overview.html) is based on the V1 release of the Objects365 dataset.
+Objects 365 annotated 365 object classes on more than 1800k images, with more than 29 million bounding boxes in the training set, surpassing PASCAL VOC, ImageNet, and COCO datasets.
+Objects 365 includes 11 categories of people, clothing, living room, bathroom, kitchen, office/medical, electrical appliances, transportation, food, animals, sports/musical instruments, and each category has dozens of subcategories.
+
+## Citation
+
+```
+@inproceedings{shao2019objects365,
+  title={Objects365: A large-scale, high-quality dataset for object detection},
+  author={Shao, Shuai and Li, Zeming and Zhang, Tianyuan and Peng, Chao and Yu, Gang and Zhang, Xiangyu and Li, Jing and Sun, Jian},
+  booktitle={Proceedings of the IEEE/CVF international conference on computer vision},
+  pages={8430--8439},
+  year={2019}
